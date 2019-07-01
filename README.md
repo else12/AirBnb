@@ -1,10 +1,10 @@
-AirBnB project investigating Seattle Rental market
+# AirBnB project investigating Seattle Rental market
 
 
 The Projets aim is to get aquitance with Seattle Rental MArket and price setting
 
 
-Important files: 
+## Important files: 
 
 Calendar.csv  - contains listings, dates, daily prices.  
 
@@ -16,7 +16,7 @@ of reviews per months and other features.
 Reviews.csv	-  contains listings, reviews, dates for the review, and who provided the 
 review.
 
-Results files:
+## Results files:
 
 AirBnB.ipynb - Jupiter Notebook file
 
