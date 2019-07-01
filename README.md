@@ -22,7 +22,7 @@ AirBnB.ipynb - Jupiter Notebook file
 
 AirBnB.html is the jupiter notebook files as html
 
-AirBnB_Seattel.html   -   the blog post file, Report file
+AirBnB_Seattel.html   -   the blog post file, Report file,please download this to your local computer and view with your browser. I use safari and it works with that browser at least. Thank you.
 
 
 
