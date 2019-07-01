@@ -16,12 +16,15 @@ of reviews per months and other features.
 Reviews.csv	-  contains listings, reviews, dates for the review, and who provided the 
 review.
 
+Results files:
 
 AirBnB.ipynb - Jupiter Notebook file
 
 AirBnB.html is the jupiter notebook files as html
 
 AirBnB_Seattel.html   -   the blog post file, Report file
+
+
 
 
 
